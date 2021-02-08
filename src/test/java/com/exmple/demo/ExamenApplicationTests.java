@@ -1,10 +1,10 @@
-package ma.exam.dpexam;
+package com.exmple.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DpexamApplicationTests {
+class ExamenApplicationTests {
 
     @Test
     void contextLoads() {
