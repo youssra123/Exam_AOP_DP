@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-08T13:12:07</date>
+  <millis>1612786327042</millis>
+  <sequence>0</sequence>
+  <logger>com.example.demo.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>12</thread>
+  <message>Avant double com.example.demo.Composite.Circle.surface()</message>
+</record>
+<record>
+  <date>2021-02-08T13:12:07</date>
+  <millis>1612786327054</millis>
+  <sequence>1</sequence>
+  <logger>com.example.demo.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>12</thread>
+  <message>Après double com.example.demo.Composite.Circle.surface()</message>
+</record>
+<record>
+  <date>2021-02-08T13:12:07</date>
+  <millis>1612786327055</millis>
+  <sequence>2</sequence>
+  <logger>com.example.demo.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>12</thread>
+  <message>Durée : 14ms</message>
+</record>
+<record>
+  <date>2021-02-08T13:12:07</date>
+  <millis>1612786327056</millis>
+  <sequence>3</sequence>
+  <logger>com.example.demo.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>12</thread>
+  <message>Avant double com.example.demo.Composite.Rectangle.piremiter()</message>
+</record>
+<record>
+  <date>2021-02-08T13:12:07</date>
+  <millis>1612786327069</millis>
+  <sequence>4</sequence>
+  <logger>com.example.demo.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>12</thread>
+  <message>Après double com.example.demo.Composite.Rectangle.piremiter()</message>
+</record>
+<record>
+  <date>2021-02-08T13:12:07</date>
+  <millis>1612786327070</millis>
+  <sequence>5</sequence>
+  <logger>com.example.demo.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>12</thread>
+  <message>Durée : 14ms</message>
+</record>
+<record>
+  <date>2021-02-08T13:12:07</date>
+  <millis>1612786327070</millis>
+  <sequence>6</sequence>
+  <logger>com.example.demo.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.example.demo.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>12</thread>
+  <message>Avant void com.example.demo.Observer.Parametrage.add(Figgur)</message>
+</record>
+</log>
